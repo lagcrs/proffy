@@ -12,12 +12,12 @@ export default function TeacherItem() {
 
                         <div>
                             <strong>Larissa Silva</strong>
-                            <span>Química</span>
+                            <span>Análise e Desenvolvimento de Sistemas</span>
                         </div>
                     </header>
 
                     <p>
-                        Lorem consectetur adipisicing elit. <br/> <br/>
+                        Apaixonada por coisas novas. <br/> <br/>
                         Magni vitae omnis quasi ex, aliquid, nulla harum commodi iure delectus, non ipsum ut officia ipsa.
                     </p>
                     <footer>
